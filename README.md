@@ -11,3 +11,6 @@ See also the list of contributors who participated in this project.
 
 # License
 This project is licensed under the MIT License - see the <a href="https://github.com/OnTechEdgeCode/InstagramHashtags/blob/master/LICENSE">LICENSE</a> file for details
+
+# Change Log
+This project adheres to <a href="https://semver.org">Semantic Versioning</a>. Every release, along with the migration instructions, is documented on the GitHub Releases page.
