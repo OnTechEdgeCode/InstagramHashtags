@@ -1,5 +1,5 @@
 # InstagramHashtags
-Instagram Hashtag Counter
+One of the important questions on many social media platform is "How many posts a hashtag has?". The number of posts in a hashtag is vital information before a company starts an advertisement campaign. In this Github contribution we offer <a href="https://www.python.org/">Python</a> programcode as a boilerplate to count the number of <a href="https://instagram.com>Instagram</a> posts in a hashtag.
 
 # Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
